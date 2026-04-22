@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# vscode
+.vscode
+
+# cmake
+**/CMakeUserPresets.json
+out/
+
+# js
+node_modules/
